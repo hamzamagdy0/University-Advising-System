@@ -1,0 +1,45 @@
+Data Structure & Algorithms
+SWE210
+4
+1
+SWE111
+SWE111
+FALSE
+Sunday
+1
+Database Management Systems
+INF230
+4
+1
+SWE110
+SWE110
+FALSE
+Monday
+2
+Object Oriented Programming
+SWE211
+4
+1
+SWE111
+SWE111
+FALSE
+Tuesday
+3
+Computer Organization
+CSC220
+3
+1
+CSC120
+CSC120
+FALSE
+Wednesday
+4
+Professional Ethics
+ETH101
+3
+1
+~
+~
+FALSE
+Thursday
+5

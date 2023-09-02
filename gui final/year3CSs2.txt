@@ -1,0 +1,45 @@
+Software Project Management
+SWE321
+3
+2
+~
+Computer Science
+FALSE
+Sunday
+1
+Machine Learning
+CSC341
+3
+2
+CSC340
+Computer Science
+FALSE
+Monday
+2
+Theory of Computation & Compiler Design
+CSC311
+4
+2
+BAS112,SWE210
+Computer Science
+FALSE
+Tuesday
+3
+Advanced Artificial Intelligence
+CSC344
+3
+2
+CSC340
+Computer Science
+FALSE
+Wednesday
+4
+Data Mining and Business Intelligence
+INF331
+3
+2
+INF230
+Computer Science
+FALSE
+Thursday
+5

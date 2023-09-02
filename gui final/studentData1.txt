@@ -1,0 +1,40 @@
+Fady Nabil
+2022/04418
+1
+3.11
+0
+17
+~
+Discrete Mathematics & Linear Algebra,Computer Programming & Problem Solving,Digital Logic Design,Probability & Statistics,Freshman 1
+Youssef Salem
+2022/01783
+1
+1.68
+1
+13
+~
+Mathematics,Physics,Computer Applications,English For Academic Purposes
+Taqi ElDeen
+2022/03065
+1
+1.9
+1
+13
+~
+Mathematics,Introduction to Computer Science,Computer Applications,English For Academic Purposes
+Amir Sherif
+2022/05301
+1
+2.4
+0
+13
+~
+Mathematics,Physics,Computer Applications,English For Academic PurposesHamza Magdy
+Hamza Magdy
+2022/04010
+1
+2.52
+no
+17
+~
+Discrete Mathematics & Linear Algebra,Computer Programming & Problem Solving,Digital Logic Design,Probability & Statistics,Freshman 1

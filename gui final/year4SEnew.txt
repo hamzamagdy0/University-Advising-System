@@ -1,0 +1,45 @@
+Principles of Software Architecture
+SWE411
+4
+1
+SWE311
+Software Engineering
+FALSE
+Sunday
+1
+Software Validation and Testing
+SWE413
+3
+1
+SWE320
+Software Engineering
+FALSE
+Monday
+2
+Advanced Software Engineering
+SWE325
+3
+1
+SWE320
+Software Engineering
+FALSE
+Tuesday
+3
+Selected Topics in Software Engineering
+SWE327
+3
+1
+~
+Software Engineering
+FALSE
+Wednesday
+4
+Senior Project in Software Engineering
+SWE491A
+0
+1
+SWE320
+Software Engineering
+FALSE
+Thursday
+5

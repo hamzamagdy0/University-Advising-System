@@ -1,0 +1,12 @@
+D:\college\subjects\Intro to prog\final project\gui final\gui final\x64\Debug\gui final.vcxproj.AssemblyReference.cache
+D:\college\subjects\Intro to prog\final project\gui final\gui final\x64\Debug\gui final.vcxproj.SuggestedBindingRedirects.cache
+D:\college\subjects\Intro to prog\final project\gui final\gui final\x64\Debug\guifinal.MyForm.resources
+D:\college\subjects\Intro to prog\final project\gui final\gui final\x64\Debug\gui final.vcxproj.GenerateResource.cache
+C:\Users\HAMZA MAGDY\source\repos\gui final\gui final\x64\Debug\gui final.vcxproj.AssemblyReference.cache
+C:\Users\HAMZA MAGDY\source\repos\gui final\gui final\x64\Debug\gui final.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\HAMZA MAGDY\source\repos\gui final\gui final\x64\Debug\guifinal.MyForm.resources
+C:\Users\HAMZA MAGDY\source\repos\gui final\gui final\x64\Debug\gui final.vcxproj.GenerateResource.cache
+D:\college\Freshman spring 22\Problem solving\gui final1\gui final\gui final\x64\Debug\gui final.vcxproj.AssemblyReference.cache
+D:\college\Freshman spring 22\Problem solving\gui final1\gui final\gui final\x64\Debug\gui final.vcxproj.SuggestedBindingRedirects.cache
+D:\college\Freshman spring 22\Problem solving\gui final1\gui final\gui final\x64\Debug\guifinal.MyForm.resources
+D:\college\Freshman spring 22\Problem solving\gui final1\gui final\gui final\x64\Debug\gui final.vcxproj.GenerateResource.cache

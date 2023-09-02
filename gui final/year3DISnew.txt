@@ -1,0 +1,45 @@
+Management Information Systems
+INF331
+4
+1
+INF230
+Data & Information Science
+FALSE
+Sunday
+1
+Foundations Of Management
+INF312
+3
+1
+~
+Data & Information Science
+FALSE
+Monday
+2
+Foundations Of Economics
+INF313
+3
+1
+~
+Data & Information Science
+FALSE
+Tuesday
+3
+Software Engineering
+SWE320
+4
+1
+SWE11
+Data & Information Science
+FALSE
+Wednesday
+4
+Uni Req 6
+~
+3
+1
+~
+Data & Information 
+FALSE
+Thursday
+5

@@ -1,0 +1,45 @@
+Artificial Intelligence
+CSC340
+3
+1
+SWE111
+Computer Science
+FALSE
+Sunday
+1
+Statistical Analysis
+BAS331
+3
+1
+BAS131
+Computer Science
+FALSE
+Monday
+2
+Image Processing
+CSC360
+4
+1
+SWE111,BAS112
+Computer Science
+FALSE
+Tuesday
+3
+Software Engineering
+SWE320
+4
+1
+SWE211
+Computer Science
+FALSE
+Wednesday
+4
+Uni Req 6
+~
+3
+1
+~
+Computer Science
+FALSE
+Thursday
+5

@@ -1,0 +1,46 @@
+Network Security
+CSC430
+3
+1
+CSC230
+Computer Science
+FALSE
+Sunday
+1
+Distributed Systems
+CSC410
+4
+1
+CSC210
+Computer Science
+FALSE
+Monday
+2
+Knowledge Representation and Reasoning
+INF332
+3
+1
+CSC340
+Computer Science
+FALSE
+Tuesday
+3
+Designing Intelligent Agents
+SWE412
+3
+1
+CSC340
+Computer Science
+FALSE
+Wednesday
+4
+Senior Project in Computer Science 
+CSC491A
+0
+1
+SWE320
+Computer Science
+FALSE
+Thursday
+5
+

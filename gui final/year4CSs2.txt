@@ -1,0 +1,45 @@
+Mobile device Programming
+SWE410
+3
+2
+SWE211
+Computer Science
+FALSE
+Sunday
+1
+Foundation of Data Science
+INF431
+3
+2
+BAS131
+Computer Science
+FALSE
+Monday
+2
+Graphics and Game Programming
+SWE442
+3
+2
+SWE211,CSC340
+Computer Science
+FALSE
+Tuesday
+3
+Foundation of Natural Language Processing
+CSC441
+3
+2
+CSC340,CSC311
+Computer Science
+FALSE
+Wednesday
+4
+Senior Project in Computer Science
+CSC491
+5
+2
+CSC491A
+Computer Science
+FALSE
+Saturday
+6

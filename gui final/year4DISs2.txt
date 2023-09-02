@@ -1,0 +1,45 @@
+Information Storage and Retrieval
+INF430
+3
+2
+INF230
+Data & Information Science
+FALSE
+Sunday
+1
+Selected Topics in Information Systems
+INF315
+3
+2
+~
+Data & Information Science
+FALSE
+Monday
+2
+Intelligent Information Systems
+INF434
+3
+2
+INF319
+Data & Information Science
+FALSE
+Tuesday
+3
+Multimedia Systems Programming
+SWE430
+3
+2
+SWE330
+Data & Information Science
+FALSE
+Wednesday
+4
+Senior Project in data & Information Sciences
+INF491
+5
+2
+INF491A
+Data & Information Science
+FALSE
+Thursday
+5

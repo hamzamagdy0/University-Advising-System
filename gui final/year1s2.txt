@@ -1,0 +1,45 @@
+Probability & Statistics
+BAS131
+3
+2
+~
+~
+FALSE
+Sunday
+1
+Discrete Mathematics & Linear Algebra
+BAS112
+3
+2
+BAS111
+~
+FALSE
+Sunday
+2
+Digital Logic Design
+CSC120
+3
+2
+BAS121
+~
+FALSE
+Sunday
+3
+Computer Programming & Problem Solving
+SWE111
+4
+2
+SWE110
+~
+FALSE
+Sunday
+4
+Freshman 1
+ENG101
+3
+1
+~
+~
+FALSE
+Wednesday
+5

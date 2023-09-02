@@ -1,0 +1,24 @@
+Bola Ahmed
+2019/01967
+4
+2.3
+0
+101
+Data & Information Science
+Electronic Commerce,IT Security,Foundation of Data Science,Enterprise Resource Planning,Senior Project in data Information Sciences
+Ahmed Ashraf
+2019/05533
+4
+3.5
+0
+101
+Computer Science
+Network Security,Distributed Systems,Knowledge Representation and Reasoning,Designing Intelligent Agents,Senior Project in Computer Science
+Hala Haitham
+2019/08787
+4
+3.1
+0
+101
+Software Engineering
+Principles of Software Architecture,Software Validation and Testing,Advanced Software Engineering,Selected Topics in Software Engineering,Senior Project in Software Engineering

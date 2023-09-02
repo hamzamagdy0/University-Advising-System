@@ -1,0 +1,45 @@
+Artificial Intelligence
+CSC340
+3
+1
+SWE111
+Software Engineering
+FALSE
+Sunday
+1
+Statistical Analysis
+BAS331
+3
+1
+BAS131
+Software Engineering
+FALSE
+Monday
+2
+Human Computer Interaction
+SWE330
+3
+1
+SWE211
+Software Engineering
+FALSE
+Tuesday
+3
+Software Engineering
+SWE320
+4
+1
+SWE211
+Software Engineering
+FALSE
+Wednesday
+4
+Uni Req 6
+~
+3
+1
+~
+Software Engineering
+FALSE
+Thursday
+5

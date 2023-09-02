@@ -1,0 +1,45 @@
+System Analysis & Design
+INF319
+4
+2
+INF230
+Software Engineering
+FALSE
+Sunday
+1
+Principles of Software Design
+SWE311
+3
+2
+SWE210
+Software Engineering
+FALSE
+Monday
+2
+Software Project Management
+SWE321
+3
+2
+~
+Software Engineering
+FALSE
+Tuesday
+3
+Software Quality Assurance & Evolution
+SWE314
+3
+2
+SWE320
+Software Engineering
+FALSE
+Wednesday
+4
+New Methods of Software Development
+SWE316
+3
+2
+SWE320
+Software Engineering
+FALSE
+Thursday
+5

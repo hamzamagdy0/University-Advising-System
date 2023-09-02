@@ -1,0 +1,45 @@
+Software Requirements Engineering
+SWE421
+4
+2
+SWE320
+Software Engineering
+FALSE
+Sunday
+1
+Business Intelligence and Analysis
+INF411
+3
+2
+INF311
+Software Engineering
+FALSE
+Monday
+2
+Software Security
+SWE425
+3
+2
+SWE320
+Software 
+FALSE
+Tuesday
+3
+Integrated Development and Operation
+SWE426
+3
+2
+SWE320
+Software Engineering
+FALSE
+Wednesday
+4
+Senior Project in Software Engineering 
+SWE491
+5
+2
+SWE491A
+Software Engineering
+FALSE
+Thursday
+5

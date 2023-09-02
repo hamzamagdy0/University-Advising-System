@@ -1,0 +1,46 @@
+Physics
+BAS121
+4
+1
+~
+~
+FALSE
+Sunday
+1
+Mathematics
+BAS111
+3
+1
+~
+~
+FALSE
+Sunday
+2
+Introduction to Computer Science
+SWE110
+4
+1
+~
+~
+FALSE
+Sunday
+3
+English For Academic Purposes
+ENG100
+3
+1
+~
+~
+FALSE
+Wednesday
+4
+Computer Applications
+SOC204
+3
+1
+~
+~
+FALSE
+Sunday
+4
+

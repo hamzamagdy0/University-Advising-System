@@ -1,0 +1,45 @@
+Algorithms Analysis & Design
+SWE212
+4
+2
+SWE210
+SWE210
+FALSE
+Sunday
+1
+Operating Systems
+CSC210
+3
+2
+~
+~
+FALSE
+Monday
+2
+Computer Networks
+CSC230
+4
+2
+~
+~
+FALSE
+Tuesday
+3
+Web Development
+SWE230
+4
+2
+INF23,SWE211
+INF23,SWE211
+FALSE
+Wednesday
+4
+Desktop Publishing
+COM200
+3
+2
+~
+~
+FALSE
+Thursday
+5
