@@ -34,15 +34,25 @@ A Java-based desktop application designed to streamline academic advising at a u
 
 ## 📁 Project Structure
 University-Advising-System/
+
 ├── src/ # Source code files
+
 │ ├── model/ # Entities: Student, Advisor, Course, etc.
+
 │ ├── ui/ # GUI Forms and Frames
+
 │ ├── service/ # Business logic
+
 │ └── util/ # Helper classes for file I/O
+
 ├── data/ # Serialized data files (.bin)
+
 ├── resources/ # Images or config files
+
 ├── README.md
+
 └── University-Advising-System.iml
+
 
 ## 🚀 Getting Started
 
